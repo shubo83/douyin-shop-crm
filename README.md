@@ -65,7 +65,7 @@ chown -R www:www ./douyin-shop-crm/
 可参考 [Laravel 7 安装配置](https://learnku.com/docs/laravel/7.x/installation/7447)
 
 #### 访问后台
-访问`/admin`，默认超级管理员的账号密码都为`super_admin`。
+访问`/admin`，默认超级管理员的账号`root`,密码为`rootroot`。
 
 
 ## 感谢
