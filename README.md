@@ -62,11 +62,11 @@ chown -R www:www ./douyin-shop-crm/
 ``` 
 
 #### 服务器配置
-可参考[Laravel 7 安装配置](https://learnku.com/docs/laravel/7.x/installation/7447)
+可参考 [Laravel 7 安装配置](https://learnku.com/docs/laravel/7.x/installation/7447)
 
 #### 访问后台
 访问`/admin`，默认超级管理员的账号密码都为`super_admin`。
 
 
 ## 感谢
-本项目基于[laravel-admin](git@github.com:yuxingfei/laravel-admin.git)开发
+本项目基于 [laravel-admin](git@github.com:yuxingfei/laravel-admin.git) 开发
